@@ -5,8 +5,9 @@
 
 # Data Description
 **Dataset have 23 columns all columns datatype are continous some columns name are capshape ,capcolor .caosurface, ordor,buries etc
- the class column is output column and have 2 categories e and p 
- e - eatable
+ the class column is output column and have 2 categories e and p **
+ 
+ **e - eatable ,
  p - poisonous**
 
 # Architecture
