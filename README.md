@@ -4,18 +4,10 @@
 
 
 # Data Description
-**The client will send data in multiple sets of files in batches at a 
-given location. Data will contain 23 columns . The Class 
-column will tell weather mushroom is poisonous or eatable.
-Class column will have two unique values e and p. 
-“e" represents mushroom is eatable.
-“p" represents mushroom is poisonous. 
-Apart from training files, we also require a "schema" file from 
-the client, which contains all the relevant information about 
-the training files such as:
-Name of the files, Length of Date value in Filename, Length of 
-Time value in Filename, Number of Columns, Name of the 
-Columns, and their datatype**
+**Dataset have 23 columns all columns datatype are continous some columns name are capshape ,capcolor .caosurface, ordor,buries etc
+ the class column is output column and have 2 categories e and p 
+ e - eatable
+ p - poisonous**
 
 # Architecture
 
